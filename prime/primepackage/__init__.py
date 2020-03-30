@@ -1,10 +1,10 @@
 #!/usr/bin/python
 '''Imports the functions from the package
- 
+
 Imports get_n_prime, write_primes, and read_primes from the primepackage
- 
+
 '''
- 
+
 __author__ = "Jeremy Craven"
 __license__ = "GPL"
 __version__ = "0.1"
